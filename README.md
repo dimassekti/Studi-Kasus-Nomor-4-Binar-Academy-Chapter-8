@@ -5,6 +5,8 @@ Implementasi Library
 3. GSON
 4. Coroutines
 5. Glide 
+6. Toast
+7. Dialog
 
 Pembuatan Aplikasi List News
 1. Halaman Login
