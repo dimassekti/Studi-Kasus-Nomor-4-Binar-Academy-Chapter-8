@@ -18,7 +18,8 @@
             android:textSize="18sp"
             android:textColor="@color/custom3"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            tools:ignore="RelativeOverlap" />
 
         <TextView
             android:id="@+id/tv_logout"
@@ -27,7 +28,8 @@
             android:text="Logout"
             android:layout_alignParentRight="true"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            tools:ignore="HardcodedText,RtlHardcoded" />
     </RelativeLayout>
 
 

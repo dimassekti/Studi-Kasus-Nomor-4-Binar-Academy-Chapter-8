@@ -1,3 +1,7 @@
+@file:Suppress("MemberVisibilityCanBePrivate", "MemberVisibilityCanBePrivate",
+    "MemberVisibilityCanBePrivate", "UnusedImport"
+)
+
 package com.coufie.listnewsnavigationcomponenttugasch8
 
 import android.content.Intent

@@ -1,6 +1,6 @@
 @file:Suppress("RemoveRedundantCallsOfConversionMethods", "RemoveRedundantCallsOfConversionMethods",
     "RemoveRedundantCallsOfConversionMethods", "KotlinDeprecation", "KotlinDeprecation",
-    "KotlinDeprecation", "KotlinDeprecation"
+    "KotlinDeprecation", "KotlinDeprecation", "RemoveToStringInStringTemplate"
 )
 
 package com.coufie.listnewsnavigationcomponenttugasch8
