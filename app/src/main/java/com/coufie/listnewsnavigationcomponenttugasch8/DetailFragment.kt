@@ -34,7 +34,7 @@ class DetailFragment : Fragment() {
 
         Glide.with(this).load(newsDataa!!.image).into(iv_imagedetail)
 
-        tv_author_detail.text = newsDataa!!.author.toString()
+        tv_author_detail.text = "Author : ${newsDataa!!.author.toString()}"
         tv_title_detail.text = newsDataa!!.title.toString()
         tv_description_detail.text = newsDataa!!.description.toString()
     }

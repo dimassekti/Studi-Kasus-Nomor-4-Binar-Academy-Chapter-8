@@ -50,6 +50,11 @@ class LoginFragment : Fragment() {
             }
 
         login()
+
+        tv_goto_register.setOnClickListener {
+            Navigation.findNavController(requireView()).navigate(R.id.action_loginFragment_to_registerFragment)
+
+        }
     }
 
     fun login(){

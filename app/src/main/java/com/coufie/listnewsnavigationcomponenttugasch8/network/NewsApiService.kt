@@ -16,6 +16,7 @@ interface NewsApiService {
     @GET("news")
     fun getNews() : Call<List<GetNewsItem>>
 
+    //register
     @POST("user")
     fun postUser(@Body reqUser: PostUser) : Call<GetUserItem>
 
